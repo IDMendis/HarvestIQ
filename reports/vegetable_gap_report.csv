@@ -1,0 +1,41 @@
+Series,First Date,Last Date,Observations,Maximum Gap (days),Median Gap (days),Gaps Over 7 Days
+"Brinjal (wholesale, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2414,17.0,1.0,4
+"Tomato (wholesale, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2413,17.0,1.0,4
+"Cabbage (wholesale, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2412,17.0,1.0,4
+"Beans (wholesale, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2410,17.0,1.0,4
+"Pumpkin (wholesale, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2408,17.0,1.0,4
+"Carrot (wholesale, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2400,17.0,1.0,4
+"Snake gourd (wholesale, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2398,17.0,1.0,4
+"Beans (wholesale, pettah) (Rs/kg)",2016-08-01,2026-11-20,2393,56.0,1.0,5
+"Pumpkin (wholesale, pettah) (Rs/kg)",2016-08-01,2026-11-20,2393,56.0,1.0,5
+"Tomato (wholesale, pettah) (Rs/kg)",2016-08-01,2026-11-20,2393,56.0,1.0,5
+"Cabbage (wholesale, pettah) (Rs/kg)",2016-08-01,2026-11-20,2392,56.0,1.0,5
+"Brinjal (wholesale, pettah) (Rs/kg)",2016-08-01,2026-11-20,2392,56.0,1.0,5
+"Carrot (wholesale, pettah) (Rs/kg)",2016-08-01,2026-11-20,2392,56.0,1.0,5
+"Snake gourd (wholesale, pettah) (Rs/kg)",2016-08-01,2026-11-20,2391,56.0,1.0,5
+"Brinjal (retail, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2378,45.0,1.0,5
+"Tomato (retail, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2376,45.0,1.0,5
+"Cabbage (retail, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2376,45.0,1.0,5
+"Beans (retail, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2374,45.0,1.0,5
+"Pumpkin (retail, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2372,45.0,1.0,5
+"Carrot (retail, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2364,45.0,1.0,5
+"Snake gourd (retail, dambulla) (Rs/kg)",2016-08-01,2026-11-20,2363,45.0,1.0,5
+"Tomato (retail, pettah) (Rs/kg)",2016-08-01,2026-11-20,2324,118.0,1.0,6
+"Carrot (retail, pettah) (Rs/kg)",2016-08-01,2026-11-20,2324,118.0,1.0,6
+"Beans (retail, pettah) (Rs/kg)",2016-08-01,2026-11-20,2324,118.0,1.0,6
+"Snake gourd (retail, pettah) (Rs/kg)",2016-08-01,2026-11-20,2324,118.0,1.0,6
+"Cabbage (retail, pettah) (Rs/kg)",2016-08-01,2026-11-20,2323,118.0,1.0,6
+"Brinjal (retail, pettah) (Rs/kg)",2016-08-01,2026-11-20,2323,118.0,1.0,6
+"Pumpkin (retail, pettah) (Rs/kg)",2016-08-01,2026-11-20,2318,118.0,1.0,7
+"Green chilli (wholesale, dambulla) (Rs/kg)",2019-06-03,2026-11-20,1753,17.0,1.0,3
+"Green chilli (retail, dambulla) (Rs/kg)",2019-06-03,2026-11-20,1717,45.0,1.0,4
+"Green chilli (wholesale, pettah) (Rs/kg)",2019-06-03,2026-11-20,1716,56.0,1.0,4
+"Green chilli (retail, pettah) (Rs/kg)",2019-06-03,2026-11-20,1652,118.0,1.0,5
+"Tomato (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1523,23.0,1.0,4
+"Pumpkin (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1522,23.0,1.0,4
+"Carrot (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1522,23.0,1.0,4
+"Beans (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1521,23.0,1.0,4
+"Cabbage (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1521,23.0,1.0,4
+"Brinjal (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1521,23.0,1.0,4
+"Snake gourd (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1521,23.0,1.0,4
+"Green chilli (retail, narahenpita) (Rs/kg)",2020-05-18,2026-11-20,1518,23.0,1.0,4
